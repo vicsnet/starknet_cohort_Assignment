@@ -1,0 +1,5 @@
+### What is starkware and what hes been its key innovations in the blockchain industry
+
+StarkWare is a leading technology company at the forefront of blockchain scalability and privacy solutions. It focuses on leveraging sophisticated cryptographic protocols, particularly zero-knowledge proofs, or ZK-STARKs, to supercharge blockchain performance. It aims to streamline on-chain computations and improve data availability, providing the foundations for a future where blockchains can handle more transactions with greater efficiency.
+
+StarkWare sets out to resolve the prevalent issues of scalability and privacy in the blockchain sector. Current blockchain technology, while revolutionary, faces limitations in transaction processing speed and capacity. StarkWare’s technology addresses this, reducing on-chain data load and processing, enabling blockchains to handle a greater number of transactions swiftly, securely, and preserving user privacy.
